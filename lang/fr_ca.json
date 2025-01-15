@@ -1,0 +1,57 @@
+{
+    "FILE.NEW_FILE": "Nouveau fichier",
+    "FILE.NEW_FOLDER": "Nouveau dossier",
+    "FILE.OPEN": "Ouvrir",
+    "FILE.SAVE": "Enregistrer",
+    "FILE.SAVE_AS": "Enregistrer sous",
+    "FILE.EXIT": "Quitter",
+    "FILE.EXTRACT": "Extraire",
+    "FILE.IMPORT": "Importer",
+    "FILE.NEW": "Nouveau",
+    "FILE.EXPORT": "Exporter",
+    "FILE.DELETE": "Supprimer",
+    "FILE.RENAME": "Renommer",
+    "FILE.COPY": "Copier",
+    "FILE.CUT": "Couper",
+    "FILE.PASTE": "Coller",
+    
+
+    "UI.BACK": "Retour",
+    "UI.SELECT_EXTRACT_DIR": "Sélectionner le dossier d'extraction",
+    "UI.SELECT_EXPORT_DIR": "Sélectionner le dossier d'exportation",
+    "UI.SELECT_EXPORT_FILE": "Sélectionner le fichier d'exportation",
+    "UI.DECRYPTING": "Décryptage...",
+    "UI.EXTRACTING": "Extraction de {0}...",
+    "UI.COMPRESSING": "Compression de {0}...",
+    "UI.ENCRYPTING": "Chiffrement...",
+    
+    "DIALOG.ERROR": "Erreur",
+    "DIALOG.SUCCESS": "Succès",
+    "DIALOG.ENTER_FILENAME": "Entrez le nom du fichier :",
+    "DIALOG.ENTER_FOLDERNAME": "Entrez le nom du dossier :",
+    "DIALOG.ENTER_NEW_NAME": "Entrez le nouveau nom :",
+    "DIALOG.CONFIRM_DELETE": "Supprimer {0} ?",
+    "DIALOG.EXTRACT_SUCCESS": "Extraction réussie",
+    "DIALOG.EXPORT_SUCCESS": "Exportation réussie",
+    "DIALOG.NEW_PYZIP_CREATED": "Nouveau fichier PyZip créé",
+    "DIALOG.RENAME": "Renommer",
+    
+    "COLUMN.FILENAME": "Nom du fichier",
+    "COLUMN.SIZE": "Taille",
+    "COLUMN.MODIFIED": "Modifié le",
+    
+    "SIZE.B": "{}o",
+    "SIZE.KB": "{}Ko",
+    "SIZE.MB": "{}Mo",
+    
+    "ERROR.CREATE_FILE": "Échec de la création du fichier : {0}",
+    "ERROR.CREATE_FOLDER": "Échec de la création du dossier : {0}",
+    "ERROR.READ_DIR": "Échec de la lecture du dossier : {0}",
+    "ERROR.DELETE": "Échec de la suppression : {0}",
+    "ERROR.RENAME": "Échec du renommage : {0}",
+    "ERROR.IMPORT": "Échec de l'importation de {0} : {1}",
+    "ERROR.OPEN_FILE": "Échec de l'ouverture du fichier : {0}",
+    "ERROR.WRONG_PASSWORD": "Mot de passe incorrect",
+
+    "MENU.LANGUAGE": "Langue"
+}

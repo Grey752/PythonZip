@@ -1,0 +1,57 @@
+{
+    "FILE.NEW_FILE": "புதிய கோப்பு",
+    "FILE.NEW_FOLDER": "புதிய கோப்புறை",
+    "FILE.OPEN": "திற",
+    "FILE.SAVE": "சேமி",
+    "FILE.SAVE_AS": "இப்படி சேமி",
+    "FILE.EXIT": "வெளியேறு",
+    "FILE.EXTRACT": "பிரித்தெடு",
+    "FILE.IMPORT": "இறக்குமதி",
+    "FILE.NEW": "புதிய",
+    "FILE.EXPORT": "ஏற்றுமதி",
+    "FILE.DELETE": "நீக்கு",
+    "FILE.RENAME": "மறுபெயரிடு",
+    "FILE.COPY": "நகல்",
+    "FILE.CUT": "கட்டுத்துண்டு",
+    "FILE.PASTE": "பேஸ்டு",
+    
+
+    "UI.BACK": "பின்செல்",
+    "UI.SELECT_EXTRACT_DIR": "பிரித்தெடுக்கும் கோப்புறையைத் தேர்ந்தெடு",
+    "UI.SELECT_EXPORT_DIR": "ஏற்றுமதி கோப்புறையைத் தேர்ந்தெடு",
+    "UI.SELECT_EXPORT_FILE": "ஏற்றுமதி கோப்பைத் தேர்ந்தெடு",
+    "UI.DECRYPTING": "மறைகுறி நீக்குகிறது...",
+    "UI.EXTRACTING": "{0} பிரித்தெடுக்கிறது...",
+    "UI.COMPRESSING": "{0} சுருக்குகிறது...",
+    "UI.ENCRYPTING": "மறைகுறியாக்குகிறது...",
+    
+    "DIALOG.ERROR": "பிழை",
+    "DIALOG.SUCCESS": "வெற்றி",
+    "DIALOG.ENTER_FILENAME": "கோப்பு பெயரை உள்ளிடவும்:",
+    "DIALOG.ENTER_FOLDERNAME": "கோப்புறை பெயரை உள்ளிடவும்:",
+    "DIALOG.ENTER_NEW_NAME": "புதிய பெயரை உள்ளிடவும்:",
+    "DIALOG.CONFIRM_DELETE": "{0} ஐ நீக்கவா?",
+    "DIALOG.EXTRACT_SUCCESS": "பிரித்தெடுத்தல் வெற்றி",
+    "DIALOG.EXPORT_SUCCESS": "ஏற்றுமதி வெற்றி",
+    "DIALOG.NEW_PYZIP_CREATED": "புதிய PyZip கோப்பு உருவாக்கப்பட்டது",
+    "DIALOG.RENAME": "மறுபெயரிடு",
+    
+    "COLUMN.FILENAME": "கோப்பு பெயர்",
+    "COLUMN.SIZE": "அளவு",
+    "COLUMN.MODIFIED": "மாற்றப்பட்டது",
+    
+    "SIZE.B": "{}B",
+    "SIZE.KB": "{}KB",
+    "SIZE.MB": "{}MB",
+    
+    "ERROR.CREATE_FILE": "கோப்பு உருவாக்கம் தோல்வி: {0}",
+    "ERROR.CREATE_FOLDER": "கோப்புறை உருவாக்கம் தோல்வி: {0}",
+    "ERROR.READ_DIR": "கோப்புறை வாசிப்பு தோல்வி: {0}",
+    "ERROR.DELETE": "நீக்குதல் தோல்வி: {0}",
+    "ERROR.RENAME": "மறுபெயரிடல் தோல்வி: {0}",
+    "ERROR.IMPORT": "{0} இறக்குமதி தோல்வி: {1}",
+    "ERROR.OPEN_FILE": "கோப்பு திறத்தல் தோல்வி: {0}",
+    "ERROR.WRONG_PASSWORD": "தவறான கடவுச்சொல்",
+
+    "MENU.LANGUAGE": "மொழி"
+}

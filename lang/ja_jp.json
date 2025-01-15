@@ -1,0 +1,57 @@
+{
+    "FILE.NEW_FILE": "新規",
+    "FILE.NEW_FOLDER": "新規フォルダ",
+    "FILE.OPEN": "開く",
+    "FILE.SAVE": "保存",
+    "FILE.SAVE_AS": "別名保存",
+    "FILE.EXIT": "終了",
+    "FILE.EXTRACT": "展開",
+    "FILE.IMPORT": "読込",
+    "FILE.NEW": "新規",
+    "FILE.EXPORT": "書出",
+    "FILE.DELETE": "削除",
+    "FILE.RENAME": "名前変更",
+    "FILE.COPY": "コピー",
+    "FILE.CUT": "切り取り",
+    "FILE.PASTE": "貼り付け",
+
+
+    "UI.BACK": "戻る",
+    "UI.SELECT_EXTRACT_DIR": "展開先選択",
+    "UI.SELECT_EXPORT_DIR": "書出先選択",
+    "UI.SELECT_EXPORT_FILE": "書出ファイル選択",
+    "UI.DECRYPTING": "復号中...",
+    "UI.EXTRACTING": "{0}展開中...",
+    "UI.COMPRESSING": "{0}圧縮中...",
+    "UI.ENCRYPTING": "暗号化中...",
+
+    "DIALOG.ERROR": "エラー",
+    "DIALOG.SUCCESS": "完了",
+    "DIALOG.ENTER_FILENAME": "ファイル名:",
+    "DIALOG.ENTER_FOLDERNAME": "フォルダ名:",
+    "DIALOG.ENTER_NEW_NAME": "新名称:",
+    "DIALOG.CONFIRM_DELETE": "{0}を削除?",
+    "DIALOG.EXTRACT_SUCCESS": "展開完了",
+    "DIALOG.EXPORT_SUCCESS": "書出完了",
+    "DIALOG.NEW_PYZIP_CREATED": "新規作成完了",
+    "DIALOG.RENAME": "名前変更",
+
+    "COLUMN.FILENAME": "名前",
+    "COLUMN.SIZE": "サイズ",
+    "COLUMN.MODIFIED": "更新日",
+
+    "SIZE.B": "{}B",
+    "SIZE.KB": "{}KB",
+    "SIZE.MB": "{}MB",
+
+    "ERROR.CREATE_FILE": "作成失敗: {0}",
+    "ERROR.CREATE_FOLDER": "作成失敗: {0}",
+    "ERROR.READ_DIR": "読取失敗: {0}",
+    "ERROR.DELETE": "削除失敗: {0}",
+    "ERROR.RENAME": "名前変更失敗: {0}",
+    "ERROR.IMPORT": "読込失敗: {0} {1}",
+    "ERROR.OPEN_FILE": "開く失敗: {0}",
+    "ERROR.WRONG_PASSWORD": "パスワード不正",
+
+    "MENU.LANGUAGE": "言語"
+}

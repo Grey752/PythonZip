@@ -1,0 +1,57 @@
+{
+    "FILE.NEW_FILE": "新增檔案",
+    "FILE.NEW_FOLDER": "新增資料夾",
+    "FILE.OPEN": "開啟",
+    "FILE.SAVE": "儲存",
+    "FILE.SAVE_AS": "另存新檔",
+    "FILE.EXIT": "離開",
+    "FILE.EXTRACT": "解壓縮",
+    "FILE.IMPORT": "匯入",
+    "FILE.NEW": "新增",
+    "FILE.EXPORT": "匯出",
+    "FILE.DELETE": "刪除",
+    "FILE.RENAME": "重新命名",
+    "FILE.COPY": "複製",
+    "FILE.CUT": "剪切",
+    "FILE.PASTE": "貼上",
+    
+
+    "UI.BACK": "返回",
+    "UI.SELECT_EXTRACT_DIR": "選擇解壓縮目錄",
+    "UI.SELECT_EXPORT_DIR": "選擇匯出目錄",
+    "UI.SELECT_EXPORT_FILE": "選擇匯出檔案",
+    "UI.DECRYPTING": "正在解密...",
+    "UI.EXTRACTING": "正在解壓縮 {0}...",
+    "UI.COMPRESSING": "正在壓縮 {0}...",
+    "UI.ENCRYPTING": "正在加密...",
+    
+    "DIALOG.ERROR": "錯誤",
+    "DIALOG.SUCCESS": "成功",
+    "DIALOG.ENTER_FILENAME": "請輸入檔案名稱:",
+    "DIALOG.ENTER_FOLDERNAME": "請輸入資料夾名稱:",
+    "DIALOG.ENTER_NEW_NAME": "請輸入新名稱:",
+    "DIALOG.CONFIRM_DELETE": "確認刪除 {0}?",
+    "DIALOG.EXTRACT_SUCCESS": "解壓縮成功",
+    "DIALOG.EXPORT_SUCCESS": "匯出成功",
+    "DIALOG.NEW_PYZIP_CREATED": "已建立新的PyZip檔案",
+    "DIALOG.RENAME": "重新命名",
+    
+    "COLUMN.FILENAME": "檔案名稱",
+    "COLUMN.SIZE": "大小",
+    "COLUMN.MODIFIED": "修改時間",
+    
+    "SIZE.B": "{}B",
+    "SIZE.KB": "{}KB",
+    "SIZE.MB": "{}MB",
+    
+    "ERROR.CREATE_FILE": "建立檔案失敗: {0}",
+    "ERROR.CREATE_FOLDER": "建立資料夾失敗: {0}",
+    "ERROR.READ_DIR": "讀取目錄失敗: {0}",
+    "ERROR.DELETE": "刪除失敗: {0}",
+    "ERROR.RENAME": "重新命名失敗: {0}",
+    "ERROR.IMPORT": "匯入 {0} 失敗: {1}",
+    "ERROR.OPEN_FILE": "開啟檔案失敗: {0}",
+    "ERROR.WRONG_PASSWORD": "密碼錯誤",
+
+    "MENU.LANGUAGE": "語言"
+}
